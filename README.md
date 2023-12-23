@@ -1,7 +1,7 @@
 # Cohort-analysis
 Cohort Analysis is a technique used to gain insights into the behaviour and characteristics of specific groups of users or customers over time.
 # process
-1- The first step is to define the cohorts based on a specific characteristic or event. For example, in an e-commerce platform, cohorts could be defined based on the month of a user’s first purchase.
+1- The first step is to define the cohorts based on a specific characteristic or event. 
 
 2- Gather relevant data for analysis.
 
